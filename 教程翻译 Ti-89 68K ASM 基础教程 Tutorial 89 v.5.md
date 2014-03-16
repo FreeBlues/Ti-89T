@@ -475,6 +475,6 @@ This is version .5 of Tutorial 89.
 
 翻译者：FreeBlues
 
-译文网络版本：Github
+译文网络版本：https://github.com/FreeBlues/Ti-89T/blob/master/教程翻译%20Ti-89%2068K%20ASM%20基础教程%20Tutorial%2089%20v.5.md
 
 如果有哪些地方翻译得有问题，欢迎大家指出，确认无误后我会把更确切的翻译合入新版本，谢谢！
